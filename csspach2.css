@@ -203,6 +203,15 @@ h4{font-size: 18px;}
 
 }
 
+#gif{
+	position: relative;
+	left: 150px;
+	float: left;
+	padding: 40px 100px 20px 2px; 
+	text-align: left; 
+	margin: -10px 0 0 0;
+}
+
 /*  F  A  Q   */
 
 #faq{
