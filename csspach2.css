@@ -93,11 +93,14 @@ a:hover{ font-weight: bolder; color: #ECCEF5; text-decoration: none;}
 /* H  O  M  E  */
 
 #home{
-	background-image:url('back2.png');
+	background: url(back.png) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+ 	 -moz-background-size: cover;
+ 	 -o-background-size: cover;
+  	background-size: cover;
 	background-color: rgba(0, 0, 0, 0.2);
-	background-repeat:no-repeat;
 	float: left;
-	height: 575px;
+	
 	width: 1280px;
 
 }
